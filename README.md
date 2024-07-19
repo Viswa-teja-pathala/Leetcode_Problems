@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
