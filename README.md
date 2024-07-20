@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0078-subsets) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Matrix
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
