@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Math
 |  |
@@ -26,6 +27,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0274-h-index](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
