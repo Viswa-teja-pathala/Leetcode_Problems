@@ -32,12 +32,14 @@
 | [0128-longest-consecutive-sequence](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0274-h-index](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [1036-rotting-oranges](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Two Pointers
 |  |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
