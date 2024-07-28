@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0801-is-graph-bipartite](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 ## Linked List
 |  |
 | ------- |
@@ -97,5 +98,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1036-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
