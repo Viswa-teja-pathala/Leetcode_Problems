@@ -38,6 +38,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2727-number-of-senior-citizens](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
 ## Matrix
@@ -53,6 +54,7 @@
 | [0141-linked-list-cycle](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0274-h-index](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Backtracking
 |  |
@@ -87,6 +90,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Union Find
 |  |
 | ------- |
