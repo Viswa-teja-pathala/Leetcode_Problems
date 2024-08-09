@@ -21,6 +21,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0274-h-index](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0274-h-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -55,6 +58,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
