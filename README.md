@@ -166,4 +166,8 @@
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
