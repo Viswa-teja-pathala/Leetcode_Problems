@@ -170,4 +170,5 @@
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
