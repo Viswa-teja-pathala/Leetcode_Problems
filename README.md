@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [0886-score-of-parentheses](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0886-score-of-parentheses](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Hash Table
 |  |
