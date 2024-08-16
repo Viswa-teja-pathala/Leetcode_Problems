@@ -60,6 +60,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2433-best-poker-hand](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2433-best-poker-hand) |
 | [2727-number-of-senior-citizens](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
