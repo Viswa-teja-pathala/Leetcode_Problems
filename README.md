@@ -51,6 +51,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
+| [0967-minimum-falling-path-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -68,6 +69,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
+| [0967-minimum-falling-path-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0118-pascals-triangle) |
+| [0967-minimum-falling-path-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1511-count-number-of-teams](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 ## Counting Sort
 |  |
