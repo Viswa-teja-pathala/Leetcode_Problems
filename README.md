@@ -46,6 +46,7 @@
 | [0274-h-index](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0274-h-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0890-lemonade-change) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
