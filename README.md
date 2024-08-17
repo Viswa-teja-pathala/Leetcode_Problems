@@ -61,6 +61,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2433-best-poker-hand](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2433-best-poker-hand) |
 | [2727-number-of-senior-citizens](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
@@ -118,6 +119,7 @@
 | [0118-pascals-triangle](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0967-minimum-falling-path-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1511-count-number-of-teams](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Counting Sort
 |  |
 | ------- |
