@@ -44,6 +44,7 @@
 | [0118-pascals-triangle](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0274-h-index](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0274-h-index) |
+| [0416-partition-equal-subset-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0118-pascals-triangle) |
+| [0416-partition-equal-subset-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1511-count-number-of-teams](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
