@@ -22,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0264-ugly-number-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [0264-ugly-number-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 ## Array
 |  |
@@ -118,6 +120,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0118-pascals-triangle) |
+| [0264-ugly-number-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1511-count-number-of-teams](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
@@ -206,6 +209,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
