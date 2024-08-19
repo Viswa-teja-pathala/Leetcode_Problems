@@ -36,6 +36,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 ## Array
 |  |
@@ -122,6 +123,7 @@
 | [0118-pascals-triangle](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0650-2-keys-keyboard](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1511-count-number-of-teams](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
