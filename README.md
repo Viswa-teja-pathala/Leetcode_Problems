@@ -41,6 +41,7 @@
 | [0650-2-keys-keyboard](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1240-stone-game-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Array
 |  |
@@ -69,6 +70,7 @@
 | [1511-count-number-of-teams](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
@@ -140,6 +142,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1240-stone-game-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Counting Sort
 |  |
@@ -245,6 +248,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1240-stone-game-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Game Theory
 |  |
 | ------- |
