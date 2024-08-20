@@ -38,6 +38,7 @@
 | [0264-ugly-number-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1036-rotting-oranges) |
+| [1240-stone-game-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -125,6 +127,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0967-minimum-falling-path-sum) |
+| [1240-stone-game-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Counting Sort
@@ -221,4 +224,12 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
