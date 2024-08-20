@@ -13,6 +13,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0886-score-of-parentheses](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -178,6 +179,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -211,6 +213,7 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -229,6 +232,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
