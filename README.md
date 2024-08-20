@@ -54,6 +54,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0658-find-k-closest-elements](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0890-lemonade-change) |
@@ -92,6 +93,7 @@
 | [0141-linked-list-cycle](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Greedy
@@ -108,6 +110,7 @@
 | ------- |
 | [0274-h-index](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Union Find
@@ -220,6 +224,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
+| [0658-find-k-closest-elements](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -237,4 +242,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1240-stone-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
