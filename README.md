@@ -69,6 +69,7 @@
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2433-best-poker-hand](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2433-best-poker-hand) |
 | [2727-number-of-senior-citizens](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
 ## Matrix
@@ -98,6 +99,7 @@
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0890-lemonade-change) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -108,6 +110,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
