@@ -84,6 +84,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2433-best-poker-hand](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2433-best-poker-hand) |
 | [2727-number-of-senior-citizens](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
+| [2785-semi-ordered-permutation](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2785-semi-ordered-permutation) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Matrix
 |  |
@@ -212,6 +213,7 @@
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2785-semi-ordered-permutation](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2785-semi-ordered-permutation) |
 ## Strongly Connected Component
 |  |
 | ------- |
