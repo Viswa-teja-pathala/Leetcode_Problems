@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0886-score-of-parentheses](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -100,6 +101,7 @@
 | [0061-rotate-list](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
