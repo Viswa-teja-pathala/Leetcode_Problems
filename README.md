@@ -8,6 +8,7 @@
 | [0886-score-of-parentheses](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Strongly Connected Component
 |  |
 | ------- |
