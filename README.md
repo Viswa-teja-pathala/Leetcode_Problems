@@ -46,6 +46,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Array
 |  |
@@ -216,6 +217,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2785-semi-ordered-permutation](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2785-semi-ordered-permutation) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Strongly Connected Component
 |  |
 | ------- |
