@@ -140,6 +140,7 @@
 | [0078-subsets](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1054-complement-of-base-10-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
