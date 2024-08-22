@@ -36,6 +36,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2433-best-poker-hand](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2433-best-poker-hand) |
+| [2791-find-the-losers-of-the-circular-game](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -86,6 +87,7 @@
 | [2433-best-poker-hand](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2433-best-poker-hand) |
 | [2727-number-of-senior-citizens](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [2785-semi-ordered-permutation](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2785-semi-ordered-permutation) |
+| [2791-find-the-losers-of-the-circular-game](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Matrix
 |  |
@@ -217,6 +219,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2785-semi-ordered-permutation](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2785-semi-ordered-permutation) |
+| [2791-find-the-losers-of-the-circular-game](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Strongly Connected Component
 |  |
