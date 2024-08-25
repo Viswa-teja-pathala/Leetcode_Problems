@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0886-score-of-parentheses](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -256,6 +259,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
