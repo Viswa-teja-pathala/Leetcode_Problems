@@ -73,6 +73,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1240-stone-game-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
+| [1325-path-with-maximum-probability](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [0264-ugly-number-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0658-find-k-closest-elements](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-path-with-maximum-probability](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 ## Binary Tree
 |  |
 | ------- |
@@ -282,4 +285,8 @@
 |  |
 | ------- |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
