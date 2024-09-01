@@ -63,6 +63,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
