@@ -84,6 +84,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -176,6 +177,7 @@
 | [0658-find-k-closest-elements](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Union Find
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2785-semi-ordered-permutation](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2785-semi-ordered-permutation) |
@@ -281,6 +284,7 @@
 | ------- |
 | [1240-stone-game-ii](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
