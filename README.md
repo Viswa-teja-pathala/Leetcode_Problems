@@ -53,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0078-subsets) |
@@ -142,6 +143,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Viswa-teja-pathala/Leetcode_Problems/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
